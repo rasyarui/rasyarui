@@ -1,4 +1,4 @@
-![Aca](https://i.pinimg.com/originals/16/f2/00/16f2009e334a05e74e3480e68eaf6325.jpg)
+![Aca](https://i.pinimg.com/originals/a1/b3/d8/a1b3d8192ae21d32a0d3d8e15b81df12.jpg)
 <h1 align="center">Hi 👋, I'm Rasya Rui Costa</h1>
 <h3 align="center">Learning web programming is easy and fun isn't it. No!</h3>
 <img align="right" alt="aca" width="400" src="https://i.pinimg.com/originals/c2/47/ab/c247abf83a7eeba593b1db7c1a50180e.png">
