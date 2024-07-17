@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Html, Css, Javascript, Laravel,**
 
-- 👨‍💻 All of my projects are available at [https://rasya-design.netlify.app/](https://rasya-design.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rasya-design.vercel.app/](https://rasya-design.vercel.app/)
 
 - 💬 Ask me about **Html, Css, Laravel**
 
