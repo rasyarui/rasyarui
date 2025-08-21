@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Rasyajago12@gmail.com**
 
-- 📄 Know about my experiences [https://www.cakeresume.com/rasya-rui-costa](https://www.cakeresume.com/rasya-rui-costa)
+- 📄 Know about my experiences [https://www.linkedin.com/in/rasya-rui-costa-00410025b/](https://www.linkedin.com/in/rasya-rui-costa-00410025b/)
 
 - ⚡ Fun fact **I like cats**
 
